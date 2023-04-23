@@ -1,5 +1,5 @@
 appId: 'adplauncher'
-productName: 'Ascension du pouvoir launcher'
+productName: 'AscensionduPouvoir-launcher'
 artifactName: '${productName}-setup-${version}.${ext}'
 
 copyright: 'Copyright © 2018-2022 Daniel Scalzi'
